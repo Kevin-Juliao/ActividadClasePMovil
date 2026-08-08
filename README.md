@@ -17,9 +17,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### Captura de flutter doctor
-<<<<<<< HEAD
-
 ![Foto del cmd con el comando "flutter doctor"](captura%20cmd/flutterdoctor.png)
-=======
-![Foto del cmd con el comando "flutter doctor"](captura cmd/flutterdoctor.png)
->>>>>>> bda93862c431d6c3362a2cd4260091979694c25d
+
